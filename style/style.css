@@ -1,14 +1,10 @@
 /* google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Manrope:wght@400;500;800&display=swap');
 
-/* font-family: 'Berkshire Swash', cursive;
-font-family: 'Manrope', sans-serif; 
-*/
 
-body {
-    background-color: #151515;
+body{
+    background-color: #c2f3df !important;
 }
-
 li {
     list-style: none;
 }
@@ -32,4 +28,8 @@ li {
     font-size: 20px;
     line-height: 30px;
     color: #ffffff;
+}
+
+.total{
+    color: #FF5E19;
 }
