@@ -1,10 +1,35 @@
-*{
-    border: 0px;
-    padding: 0px;
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Manrope:wght@400;500;800&display=swap');
+
+/* font-family: 'Berkshire Swash', cursive;
+font-family: 'Manrope', sans-serif; 
+*/
+
+body {
+    background-color: #151515;
 }
 
+li {
+    list-style: none;
+}
 
+.banner-area {
+    background: url(/img/Betsson-hed-2021.jpg) no-repeat center;
+    background-size: cover;
+    padding: 150px 0;
+}
 
-.image img{
-    height: 800px;
+.banner-text h1 {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 76px;
+    line-height: 94px;
+    color: #c32b26;
+}
+
+.banner-text p {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #ffffff;
 }
