@@ -10,24 +10,26 @@ li {
 }
 
 .banner-area {
-    background: url(/img/Betsson-hed-2021.jpg) no-repeat center;
+    background: url(/img/upbg4.jpg) no-repeat   ;
     background-size: cover;
     padding: 150px 0;
 }
 
 .banner-text h1 {
     font-family: 'Berkshire Swash', cursive;
-    font-size: 76px;
-    line-height: 94px;
-    color: #c32b26;
-}
+    font-size: 80px;
+    line-height: 100px;
+    color: #27e00c;
+};
+
 
 .banner-text p {
+    padding-top: 10px;
     font-family: 'Manrope', sans-serif;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 30px;
     line-height: 30px;
-    color: #ffffff;
+    color: #f0f8ff;
 }
 
 .total{
